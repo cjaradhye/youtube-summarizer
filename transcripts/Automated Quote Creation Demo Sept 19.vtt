@@ -1,0 +1,248 @@
+WEBVTT
+
+69edf76d-c3f6-468d-9096-15955cda2d41-0
+00:00:00.760 --> 00:00:04.360
+Hello everyone and thank you for taking
+the time to join us today.
+
+5b84b5ea-4540-42ee-8a56-42e90bb058fa-0
+00:00:04.640 --> 00:00:09.600
+I'm excited to walk you through our
+automated code creation or AQC solution.
+
+e8fa9d67-43ab-476e-91d0-8e8d6bad59e2-0
+00:00:10.120 --> 00:00:14.350
+Let's dive into how this tool is
+transforming the way we manage codes at
+
+e8fa9d67-43ab-476e-91d0-8e8d6bad59e2-1
+00:00:14.350 --> 00:00:14.640
+CBRE.
+
+d0e42b04-bfb7-4411-8a72-f38880a6946a-0
+00:00:15.600 --> 00:00:18.307
+At CBRE,
+we understand that efficiency and
+
+d0e42b04-bfb7-4411-8a72-f38880a6946a-1
+00:00:18.307 --> 00:00:21.960
+accuracy are critical to delivering high
+quality reports.
+
+953d29e1-1cf6-46de-8955-dfe9d4729621-0
+00:00:22.560 --> 00:00:26.076
+Currently,
+appraisers must navigate a manual and
+
+953d29e1-1cf6-46de-8955-dfe9d4729621-1
+00:00:26.076 --> 00:00:31.960
+time consuming process to cross check and
+validate client requirements or crucial
+
+953d29e1-1cf6-46de-8955-dfe9d4729621-2
+00:00:31.960 --> 00:00:36.840
+information which can take upto or more
+than 45 minutes per report.
+
+d9076bc8-eabe-4f5e-bfda-5988dbc68ff2-0
+00:00:37.480 --> 00:00:42.120
+This method also introduces the risk of
+missed requirements and mix UPS.
+
+e86d3877-3217-4bbb-989b-8babd4928bba-0
+00:00:42.560 --> 00:00:47.060
+A solution uses AI powered automation to
+streamline the validation process,
+
+e86d3877-3217-4bbb-989b-8babd4928bba-1
+00:00:47.060 --> 00:00:50.080
+significantly reducing time and
+minimizing errors.
+
+66a7e6f4-93c6-4b3c-a78b-1a60118f718d-0
+00:00:50.920 --> 00:00:54.173
+With this solution,
+we expect to cut the time on each report
+
+66a7e6f4-93c6-4b3c-a78b-1a60118f718d-1
+00:00:54.173 --> 00:00:54.920
+substantially.
+
+4cf1d43a-558b-48b6-be12-a201b4497e74-0
+00:00:55.360 --> 00:00:59.353
+This not only accelerates our operations,
+but also improves accuracy,
+
+4cf1d43a-558b-48b6-be12-a201b4497e74-1
+00:00:59.353 --> 00:01:02.320
+reducing the chances of errors or
+overlook details.
+
+e891ba75-f5c1-4950-812e-7869e8324b05-0
+00:01:02.760 --> 00:01:06.064
+Ultimately,
+this efficient workflow allows appraisers
+
+e891ba75-f5c1-4950-812e-7869e8324b05-1
+00:01:06.064 --> 00:01:10.531
+to focus on higher value tasks,
+driving enhanced client satisfaction and
+
+e891ba75-f5c1-4950-812e-7869e8324b05-2
+00:01:10.531 --> 00:01:12.000
+operational performance.
+
+87a6f450-ad27-4217-b3ff-efba6b312c09-0
+00:01:12.160 --> 00:01:17.280
+Now let me walk you through how the AQC
+tool works in practice.
+
+252b783c-b487-4bfb-aec7-5b9b8060b7a3-0
+00:01:18.600 --> 00:01:23.734
+When an unstructured mail is sent with
+key details such as job information,
+
+252b783c-b487-4bfb-aec7-5b9b8060b7a3-1
+00:01:23.734 --> 00:01:27.382
+the originator property information,
+and client info,
+
+252b783c-b487-4bfb-aec7-5b9b8060b7a3-2
+00:01:27.382 --> 00:01:30.760
+the AQC tool intelligently extracts these
+fields.
+
+a37e3565-276d-4619-9f69-dc57accc1ab3-0
+00:01:31.080 --> 00:01:34.770
+Once processed,
+the system immediately generates a code
+
+a37e3565-276d-4619-9f69-dc57accc1ab3-1
+00:01:34.770 --> 00:01:38.855
+and sends an automatic success
+notification back to the user,
+
+a37e3565-276d-4619-9f69-dc57accc1ab3-2
+00:01:38.855 --> 00:01:43.600
+which includes the code ID and the
+details of successful code creation.
+
+52989861-2044-4b24-a01c-8e9305f68ecd-0
+00:01:44.400 --> 00:01:49.960
+Users can then track code's progress by
+accessing the AQC Tracker dashboard.
+
+d108f0cc-23b6-463e-b5cd-59aacafb5b62-0
+00:01:50.280 --> 00:01:54.095
+Using the generated code ID,
+they can quickly navigate to the
+
+d108f0cc-23b6-463e-b5cd-59aacafb5b62-1
+00:01:54.095 --> 00:01:55.080
+activation page.
+
+0cd83408-533d-4ea9-ba74-b990d4a5c39e-0
+00:01:56.080 --> 00:02:00.440
+At the activation page,
+the system auto populates the Code Basic
+
+0cd83408-533d-4ea9-ba74-b990d4a5c39e-1
+00:02:00.440 --> 00:02:04.600
+task with key information extracted from
+the original e-mail.
+
+8fbf988f-db67-465c-b56f-3fe565f3acd2-0
+00:02:05.080 --> 00:02:09.000
+Users can then modify or update any
+details as necessary.
+
+04ab1a8f-b73f-498f-b89c-e1683ac5d38d-0
+00:02:09.800 --> 00:02:13.438
+Once this information is verified,
+the task can be completed by simply
+
+04ab1a8f-b73f-498f-b89c-e1683ac5d38d-1
+00:02:13.438 --> 00:02:14.720
+clicking the Next button.
+
+b648e84c-f7f2-4669-95d1-12dda6be31bf-0
+00:02:15.400 --> 00:02:18.338
+Upon completion,
+all clients information and other
+
+b648e84c-f7f2-4669-95d1-12dda6be31bf-1
+00:02:18.338 --> 00:02:21.680
+critical details are automatically
+updated in the system.
+
+6438076c-9a66-4046-9ec7-40e664aa602a-0
+00:02:24.000 --> 00:02:29.232
+Users can instantly view the status
+originator and any other relevant details
+
+6438076c-9a66-4046-9ec7-40e664aa602a-1
+00:02:29.232 --> 00:02:32.921
+of the code,
+ensuring everything is accurate and ready
+
+6438076c-9a66-4046-9ec7-40e664aa602a-2
+00:02:32.921 --> 00:02:34.800
+for follow up or next steps.
+
+c5811ea7-ee05-4c30-9623-1223ee65cbb0-0
+00:02:37.320 --> 00:02:43.221
+From May 2024 until now,
+AQC has successfully generated 89 quotes,
+
+c5811ea7-ee05-4c30-9623-1223ee65cbb0-1
+00:02:43.221 --> 00:02:46.480
+achieving a success rate of over 70%.
+
+54b7461d-6b59-4371-942f-3a8f12886c55-0
+00:02:46.960 --> 00:02:50.840
+The automation has drastically reduced
+the time required for key tasks.
+
+7ceff6d0-b39f-463b-9001-fcff0cb58ff6-0
+00:02:51.520 --> 00:02:55.013
+The quote basic task,
+which previously took much longer,
+
+7ceff6d0-b39f-463b-9001-fcff0cb58ff6-1
+00:02:55.013 --> 00:03:00.100
+is now completed in less than 10 seconds,
+while filling in the contact details has
+
+7ceff6d0-b39f-463b-9001-fcff0cb58ff6-2
+00:03:00.100 --> 00:03:02.920
+been reduced to almost only one 5.
+6 seconds.
+
+df2d0d9f-8cc4-4781-9db4-efac056c91e1-0
+00:03:03.560 --> 00:03:08.459
+The significant reduction in time has
+allowed appraisers to focus on more high
+
+df2d0d9f-8cc4-4781-9db4-efac056c91e1-1
+00:03:08.459 --> 00:03:12.863
+value tasks and has minimized the
+potential for human errors caused by
+
+df2d0d9f-8cc4-4781-9db4-efac056c91e1-2
+00:03:12.863 --> 00:03:14.600
+manual validation processes.
+
+99bd9f9e-6a2c-49ff-a581-14a39f89aa89-0
+00:03:16.880 --> 00:03:20.517
+In summary,
+we believe AQC has the potential to
+
+99bd9f9e-6a2c-49ff-a581-14a39f89aa89-1
+00:03:20.517 --> 00:03:24.080
+revolutionize code creation processes at
+CBRE.
+
+345edc25-a3e3-47c4-89ab-9a42f21bfbe7-0
+00:03:24.560 --> 00:03:26.640
+Thank you for watching and have a nice
+day.

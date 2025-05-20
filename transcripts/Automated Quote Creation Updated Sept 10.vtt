@@ -1,0 +1,108 @@
+WEBVTT
+
+eda2eb02-d38d-4d8c-b8c9-28a442dcf1b5-0
+00:00:00.760 --> 00:00:04.360
+Hello everyone and thank you for taking
+the time to join us today.
+
+e22bf6d1-52db-4732-8699-f893d610c454-0
+00:00:04.640 --> 00:00:09.600
+I'm excited to walk you through our
+automated code creation, or AQC solution.
+
+b410bc4f-cab1-4399-a292-149cb7773a66-0
+00:00:12.880 --> 00:00:18.048
+When an unstructured mail is sent with
+key details such as job information,
+
+b410bc4f-cab1-4399-a292-149cb7773a66-1
+00:00:18.048 --> 00:00:21.720
+the originator property information,
+and client info,
+
+b410bc4f-cab1-4399-a292-149cb7773a66-2
+00:00:21.720 --> 00:00:25.120
+the AQC tool intelligently extracts these
+fields.
+
+063d09ea-e83e-4458-946f-5702e469b32b-0
+00:00:25.400 --> 00:00:29.090
+Once processed,
+the system immediately generates a code
+
+063d09ea-e83e-4458-946f-5702e469b32b-1
+00:00:29.090 --> 00:00:33.175
+and sends an automatic success
+notification back to the user,
+
+063d09ea-e83e-4458-946f-5702e469b32b-2
+00:00:33.175 --> 00:00:37.920
+which includes the code ID and the
+details of successful code creation.
+
+1cb67eb2-34cd-497b-a3f0-c81ccfd9caef-0
+00:00:38.680 --> 00:00:44.280
+Users can then track codes progress by
+accessing the AQC Tracker dashboard.
+
+ec42f1aa-cddb-4daa-800e-2cb30ce5202b-0
+00:00:44.600 --> 00:00:48.415
+Using the generated code ID,
+they can quickly navigate to the
+
+ec42f1aa-cddb-4daa-800e-2cb30ce5202b-1
+00:00:48.415 --> 00:00:49.400
+activation page.
+
+a21121c4-575e-4053-9b74-52078cea0f97-0
+00:00:50.360 --> 00:00:54.720
+At the activation page,
+the system auto populates the Code Basic
+
+a21121c4-575e-4053-9b74-52078cea0f97-1
+00:00:54.720 --> 00:00:58.880
+task with key information extracted from
+the original e-mail.
+
+a38ca1fc-689f-4d03-a6f8-91b7358537a3-0
+00:00:59.360 --> 00:01:03.280
+Users can then modify or update any
+details as necessary.
+
+d871afe7-49c2-4137-a791-fe56f3256759-0
+00:01:04.040 --> 00:01:07.737
+Once this information is verified,
+the task can be completed by simply
+
+d871afe7-49c2-4137-a791-fe56f3256759-1
+00:01:07.737 --> 00:01:09.040
+clicking the Next button.
+
+f8c1bd71-5555-4511-9f54-a7100366167b-0
+00:01:09.680 --> 00:01:12.618
+Upon completion,
+all clients information and other
+
+f8c1bd71-5555-4511-9f54-a7100366167b-1
+00:01:12.618 --> 00:01:15.960
+critical details are automatically
+updated in the system.
+
+90eb230d-adc3-4221-81fd-b5ece5000424-0
+00:01:16.480 --> 00:01:21.731
+Users can instantly view the status
+originator and any other relevant details
+
+90eb230d-adc3-4221-81fd-b5ece5000424-1
+00:01:21.731 --> 00:01:25.434
+of the code,
+ensuring everything is accurate and ready
+
+90eb230d-adc3-4221-81fd-b5ece5000424-2
+00:01:25.434 --> 00:01:27.320
+for follow up or next steps.
+
+9efbf6d2-a6ee-4897-b6af-3fe275d1e349-0
+00:01:30.320 --> 00:01:32.400
+Thank you for watching and have a nice
+day.

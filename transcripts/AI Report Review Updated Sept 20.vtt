@@ -1,0 +1,142 @@
+WEBVTT
+
+fd2c6cf8-aa6f-463a-b2c4-50cdb26ac65f-0
+00:00:00.120 --> 00:00:02.959
+Hello everyone,
+and thank you for taking the time to join
+
+fd2c6cf8-aa6f-463a-b2c4-50cdb26ac65f-1
+00:00:02.959 --> 00:00:03.400
+us today.
+
+fba7972b-0598-4106-af6e-5e991820a18d-0
+00:00:03.640 --> 00:00:07.120
+I'm excited to walk you through our AI
+report review solution.
+
+5908f43a-05c9-4f82-84ed-71d2161c53d2-0
+00:00:07.560 --> 00:00:09.560
+Let's dive into how this tool works.
+
+b3553b8b-e6d7-4141-88d9-2f8af91ace4b-0
+00:00:10.760 --> 00:00:16.538
+The process starts when the appraiser
+uploads the appraisal report document to
+
+b3553b8b-e6d7-4141-88d9-2f8af91ace4b-1
+00:00:16.538 --> 00:00:18.440
+the DDR UI, as shown here.
+
+502bc6bb-ba2c-4b2c-8eb7-1f962fd9ab63-0
+00:00:19.040 --> 00:00:21.988
+Once the document is uploaded to the box
+folder,
+
+502bc6bb-ba2c-4b2c-8eb7-1f962fd9ab63-1
+00:00:21.988 --> 00:00:25.960
+the AI tool automatically kicks in and
+starts processing the PDF.
+
+486115f3-ccb5-4f53-8bc4-ac2c9fc98131-0
+00:00:27.520 --> 00:00:31.898
+The AI processes the document and
+extracts the relevant information based
+
+486115f3-ccb5-4f53-8bc4-ac2c9fc98131-1
+00:00:31.898 --> 00:00:34.680
+on predefined prompts and client
+requirements.
+
+ed70a139-a47a-4443-b3b6-1d62e2cd5334-0
+00:00:35.320 --> 00:00:39.406
+This eliminates the need for appraisers
+to go through the report manually,
+
+ed70a139-a47a-4443-b3b6-1d62e2cd5334-1
+00:00:39.406 --> 00:00:41.640
+which saves a significant amount of time.
+
+6a5a63eb-c7e6-471a-822d-32eee7667742-0
+00:00:42.400 --> 00:00:46.720
+After processing the document,
+the AI generates an Excel report.
+
+5b767e33-185d-4c9b-8278-2b5d77a95dbb-0
+00:00:47.320 --> 00:00:51.556
+Once the report is generated,
+the appraiser receives an automatic
+
+5b767e33-185d-4c9b-8278-2b5d77a95dbb-1
+00:00:51.556 --> 00:00:52.840
+e-mail notification.
+
+78a0035b-81d3-4f81-96a0-7ca13525980d-0
+00:00:53.120 --> 00:00:57.820
+This e-mail contains the generated report
+and Excel ready for the appraiser to
+
+78a0035b-81d3-4f81-96a0-7ca13525980d-1
+00:00:57.820 --> 00:01:00.320
+review and verify the information quickly.
+
+f3e531d7-2d5b-4561-ba41-f251325323db-0
+00:01:00.800 --> 00:01:04.567
+The appraiser can then validate the
+report against the source material,
+
+f3e531d7-2d5b-4561-ba41-f251325323db-1
+00:01:04.567 --> 00:01:07.760
+ensuring that the AI has correctly
+interpreted the document.
+
+68854977-251c-4fb0-8cfa-b62b3c28406c-0
+00:01:09.640 --> 00:01:12.800
+Here you can see the Excel file that's
+generated.
+
+543fa6b2-8f88-41be-b12b-9ddbdbe5a038-0
+00:01:13.240 --> 00:01:16.379
+It includes all sections,
+checklist questions,
+
+543fa6b2-8f88-41be-b12b-9ddbdbe5a038-1
+00:01:16.379 --> 00:01:20.120
+and the AI extracted information and
+validation status.
+
+e345edf0-1707-4645-a033-554045d50d86-0
+00:01:20.560 --> 00:01:25.672
+The appraiser can easily review the key
+information and validated it and confirm
+
+e345edf0-1707-4645-a033-554045d50d86-1
+00:01:25.672 --> 00:01:27.440
+if any changes are required.
+
+ac09b704-b29d-45ee-84a5-198877a471f4-0
+00:01:27.920 --> 00:01:33.412
+This report contains validation topics,
+AI extracted values and metadata from the
+
+ac09b704-b29d-45ee-84a5-198877a471f4-1
+00:01:33.412 --> 00:01:33.680
+PDF.
+
+e3802e3d-06fe-450e-8570-83b8ae2b8093-0
+00:01:33.680 --> 00:01:39.005
+It also compares these against the source
+data from the Letter of Engagement
+
+e3802e3d-06fe-450e-8570-83b8ae2b8093-1
+00:01:39.005 --> 00:01:41.080
+document and TOPS to database.
+
+5d28a2d7-bdb3-4d0c-ba96-6d062de0558c-0
+00:01:41.520 --> 00:01:45.200
+Each requirement is marked met or not met
+to ensure accuracy.
+
+ff59f4ba-149d-4803-aec4-74c911982774-0
+00:01:45.880 --> 00:01:47.960
+Thank you for watching and have a nice
+day.

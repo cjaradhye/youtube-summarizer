@@ -1,0 +1,260 @@
+WEBVTT
+
+1b4010b8-07ea-4adf-96d5-dad7e23a202a-0
+00:00:00.720 --> 00:00:01.280
+Hi all.
+
+c3e434fb-188c-4cd4-a7ef-d7d254e4c218-0
+00:00:02.080 --> 00:00:07.257
+Today's objective is to showcase how we
+are using machine learning models to
+
+c3e434fb-188c-4cd4-a7ef-d7d254e4c218-1
+00:00:07.257 --> 00:00:12.637
+enhance the productivity and efficiency
+of business operations teams working on
+
+c3e434fb-188c-4cd4-a7ef-d7d254e4c218-2
+00:00:12.637 --> 00:00:14.520
+charter of accounts mapping.
+
+50684eb4-6d84-4f35-99be-b3b9e5a3b40d-0
+00:00:15.160 --> 00:00:18.226
+Currently,
+the fund and property transaction
+
+50684eb4-6d84-4f35-99be-b3b9e5a3b40d-1
+00:00:18.226 --> 00:00:21.428
+accounting,
+specifically the chart of accounts
+
+50684eb4-6d84-4f35-99be-b3b9e5a3b40d-2
+00:00:21.428 --> 00:00:26.880
+mapping processes, are done manually,
+which leads to errors and inefficiencies.
+
+f06f0c17-3318-4725-9c5f-6c6fa80c345e-0
+00:00:28.400 --> 00:00:33.806
+The objective of this project is to
+streamline and enhance the efficiency of
+
+f06f0c17-3318-4725-9c5f-6c6fa80c345e-1
+00:00:33.806 --> 00:00:39.705
+fund and property transaction accounting,
+specifically aimed at charter of accounts
+
+f06f0c17-3318-4725-9c5f-6c6fa80c345e-2
+00:00:39.705 --> 00:00:44.690
+mapping processes using AIML techniques,
+reducing errors and improving
+
+f06f0c17-3318-4725-9c5f-6c6fa80c345e-3
+00:00:44.690 --> 00:00:49.676
+efficiencies while accelerating
+standardization and reconciliation for
+
+f06f0c17-3318-4725-9c5f-6c6fa80c345e-4
+00:00:49.676 --> 00:00:50.800
+CBRE operations.
+
+6208a006-1999-4ead-a7b4-a8f3d91be363-0
+00:00:53.360 --> 00:00:59.050
+The scope of the application is to
+implement a user friendly UI for business
+
+6208a006-1999-4ead-a7b4-a8f3d91be363-1
+00:00:59.050 --> 00:01:04.593
+operation teams to upload files and for
+the mill model to predict mappings
+
+6208a006-1999-4ead-a7b4-a8f3d91be363-2
+00:01:04.593 --> 00:01:08.880
+between source and target accounting
+codes automatically.
+
+2bbfe4c5-c17f-4a7e-80f1-949223105647-0
+00:01:09.840 --> 00:01:15.558
+We are also doing a human in the loop
+which provides an option for the team to
+
+2bbfe4c5-c17f-4a7e-80f1-949223105647-1
+00:01:15.558 --> 00:01:20.770
+manually edit for optimization and
+enabling the mill OPS for continuous
+
+2bbfe4c5-c17f-4a7e-80f1-949223105647-2
+00:01:20.770 --> 00:01:24.680
+model upgrade as a function additional
+data overtime.
+
+df990c9c-7365-4280-83ad-9f272788ac6a-0
+00:01:25.560 --> 00:01:29.640
+We followed an iterative approach to
+solve for the challenge.
+
+4c52b970-1055-44e0-98fb-323df37a6533-0
+00:01:30.200 --> 00:01:34.193
+As the initial first step,
+we analyzed the data provided by the
+
+4c52b970-1055-44e0-98fb-323df37a6533-1
+00:01:34.193 --> 00:01:38.000
+business operations team and got
+clarifications on the same.
+
+3cb43b17-7e42-4439-be76-cfb2dc754fbc-0
+00:01:38.720 --> 00:01:42.601
+For two to Step 4,
+we evaluated multiple models and
+
+3cb43b17-7e42-4439-be76-cfb2dc754fbc-1
+00:01:42.601 --> 00:01:48.573
+approaches to determine which best suits
+for effectively addressing the problem
+
+3cb43b17-7e42-4439-be76-cfb2dc754fbc-2
+00:01:48.573 --> 00:01:49.320
+statement.
+
+ced9ae7b-4d50-407e-99a8-10e54fea113b-0
+00:01:50.120 --> 00:01:53.268
+Once the model and the outcome was
+finalized,
+
+ced9ae7b-4d50-407e-99a8-10e54fea113b-1
+00:01:53.268 --> 00:01:58.060
+we demonstrated the application to
+selected operation team members to
+
+ced9ae7b-4d50-407e-99a8-10e54fea113b-2
+00:01:58.060 --> 00:02:02.920
+experience the application and test the
+same during the same timeline.
+
+08d74bd1-8e95-4d8c-b23f-fdb7cb1a2c70-0
+00:02:02.960 --> 00:02:08.944
+We also get the approach and solution
+reviewed by the data science teams and
+
+08d74bd1-8e95-4d8c-b23f-fdb7cb1a2c70-1
+00:02:08.944 --> 00:02:11.120
+enterprise architect groups.
+
+eddca16d-bb63-4cc1-b077-928d675a6648-0
+00:02:14.600 --> 00:02:19.360
+The UI is built on existing CBRE Data
+Portal application.
+
+931981be-eead-417b-ba3b-079f01e96823-0
+00:02:20.200 --> 00:02:26.692
+The interface allows the user to upload
+an Excel file containing the Source GL
+
+931981be-eead-417b-ba3b-079f01e96823-1
+00:02:26.692 --> 00:02:29.240
+and Source description columns.
+
+7f65d95e-11f8-4ffb-9b23-d4149b6009bb-0
+00:02:32.720 --> 00:02:36.951
+Upon selecting the sheet where the input
+data is kept,
+
+7f65d95e-11f8-4ffb-9b23-d4149b6009bb-1
+00:02:36.951 --> 00:02:43.106
+user submits the Excel file for the model
+to predict CBREI mapping and CBREI GL
+
+7f65d95e-11f8-4ffb-9b23-d4149b6009bb-2
+00:02:43.106 --> 00:02:48.799
+NAME for all the rows in the uploaded
+Excel and displays it for the user.
+
+0d3d5322-f8d4-4029-b5f6-7729e1c3cc08-0
+00:02:56.520 --> 00:03:03.055
+By clicking on Download Data,
+users can see mapping created by the Mill
+
+0d3d5322-f8d4-4029-b5f6-7729e1c3cc08-1
+00:03:03.055 --> 00:03:03.600
+model.
+
+01308c4e-0be2-40ed-9ba0-01bdbd1b4e42-0
+00:03:04.520 --> 00:03:08.876
+The application allows the user to
+download mapping files,
+
+01308c4e-0be2-40ed-9ba0-01bdbd1b4e42-1
+00:03:08.876 --> 00:03:12.200
+both GL and description files,
+individually.
+
+4d315c0a-8346-4560-bc7f-7f0aa8b2713e-0
+00:03:16.360 --> 00:03:21.077
+In addition to this,
+the web application also allows to edit
+
+4d315c0a-8346-4560-bc7f-7f0aa8b2713e-1
+00:03:21.077 --> 00:03:27.109
+the data if there is an appropriate GL
+description which fits the mapping and
+
+4d315c0a-8346-4560-bc7f-7f0aa8b2713e-2
+00:03:27.109 --> 00:03:33.141
+this feature allows human in the loop
+intervention for better data quality to
+
+4d315c0a-8346-4560-bc7f-7f0aa8b2713e-3
+00:03:33.141 --> 00:03:34.920
+downstream application.
+
+ea13325e-c155-4599-afb5-6c9b2c05683a-0
+00:03:34.960 --> 00:03:36.920
+Whenever user edits the data.
+
+72f04496-4041-4220-bbfb-c10a7986d575-0
+00:03:37.200 --> 00:03:40.640
+The same can be saved for future training
+of the model.
+
+47f8a16b-1fab-40d0-919f-de692204d752-0
+00:03:42.000 --> 00:03:47.469
+The application is currently under
+testing and is being tested by the
+
+47f8a16b-1fab-40d0-919f-de692204d752-1
+00:03:47.469 --> 00:03:48.720
+operations team.
+
+5d5a8a49-2ba9-4088-98b2-3a2b405a0736-0
+00:03:49.320 --> 00:03:54.876
+We have set up the ML OPS for continuous
+training of new data for model
+
+5d5a8a49-2ba9-4088-98b2-3a2b405a0736-1
+00:03:54.876 --> 00:03:55.880
+improvements.
+
+4fd198a6-7627-46d0-a5cc-044736471e83-0
+00:03:56.360 --> 00:04:01.208
+The newly created models will
+automatically be deployed and users can
+
+4fd198a6-7627-46d0-a5cc-044736471e83-1
+00:04:01.208 --> 00:04:04.880
+see the improvements in accuracy of the
+predictions.
+
+9bfe55f8-ccf8-4757-b91e-ece2a0ac19a3-0
+00:04:05.600 --> 00:04:10.340
+We are setting up governance models to
+capture model performance and seek
+
+9bfe55f8-ccf8-4757-b91e-ece2a0ac19a3-1
+00:04:10.340 --> 00:04:14.440
+suggestions from the business users for
+continuous improvement.
+
+5b824a42-47c5-4b99-98d0-4db9eb4116ae-0
+00:04:15.640 --> 00:04:18.440
+Thanks for watching the demo video and
+have a nice day.

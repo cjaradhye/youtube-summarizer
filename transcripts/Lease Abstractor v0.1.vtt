@@ -1,0 +1,131 @@
+WEBVTT
+
+e0499b69-70f0-4bac-85f1-985d6d971291-0
+00:00:00.160 --> 00:00:03.880
+Hi all and welcome to the demo of our
+lease abstraction tool.
+
+613d5f1a-b921-4ba7-b2d4-4b407a293bc0-0
+00:00:05.960 --> 00:00:10.319
+Once you land on the application,
+users can view all uploaded documents
+
+613d5f1a-b921-4ba7-b2d4-4b407a293bc0-1
+00:00:10.319 --> 00:00:12.560
+along with their respective statuses.
+
+652558ea-1621-4c57-be89-c42be60f004a-0
+00:00:13.000 --> 00:00:16.776
+Filters at the top love for easy sorting
+by status,
+
+652558ea-1621-4c57-be89-c42be60f004a-1
+00:00:16.776 --> 00:00:22.440
+client age of document and onu ensuring
+quick access to relevant information.
+
+76fd0ef6-c577-4621-8b2f-f4c1f49ae2fe-0
+00:00:22.520 --> 00:00:26.360
+Now let's move on to see what happens
+when the document is open for abstraction.
+
+e3ada09d-15b9-49be-9656-4951fb88dc91-0
+00:00:29.880 --> 00:00:33.702
+On uploading a document,
+you can see the status of the document in
+
+e3ada09d-15b9-49be-9656-4951fb88dc91-1
+00:00:33.702 --> 00:00:37.240
+queue and also additionally filter to see
+what's in progress.
+
+baff4cc6-6752-44c2-a017-c44e5aaf7b14-0
+00:00:46.380 --> 00:00:50.775
+Opening an abstracted document reveals
+various tabs on the left side of the
+
+baff4cc6-6752-44c2-a017-c44e5aaf7b14-1
+00:00:50.775 --> 00:00:51.180
+screen.
+
+7c8913e3-53be-458d-bb55-a1554d486164-0
+00:00:51.540 --> 00:00:56.380
+These tabs group fields into logical
+sections for better user navigation.
+
+3bef1715-6f45-428b-bfbf-e066a3db73b1-0
+00:00:56.820 --> 00:01:01.100
+Each field is accompanied by a page
+reference number for quick validation.
+
+8c10420a-bb9e-405e-abed-4d65c1e4ca04-0
+00:01:15.640 --> 00:01:18.990
+When an abstracted field is modified
+during validation,
+
+8c10420a-bb9e-405e-abed-4d65c1e4ca04-1
+00:01:18.990 --> 00:01:22.760
+it is moved from abstracted section into
+the adjusted section.
+
+bc046560-283b-456a-a59f-8986a608fac0-0
+00:01:23.120 --> 00:01:27.909
+This ensures changes are captured and
+used to improve the application's
+
+bc046560-283b-456a-a59f-8986a608fac0-1
+00:01:27.909 --> 00:01:29.240
+capability overtime.
+
+b388575e-5bc7-439c-8ae4-415f21d79f43-0
+00:01:29.800 --> 00:01:33.320
+Once changes are finalized,
+users can save updates seamlessly.
+
+51f08bfc-3e52-472f-a07c-7f3e9b845535-0
+00:01:39.380 --> 00:01:43.272
+To enhance usability,
+the application offers 2 viewing modes,
+
+51f08bfc-3e52-472f-a07c-7f3e9b845535-1
+00:01:43.272 --> 00:01:48.483
+Advanced or Page Wise View for navigating
+specific sections and Full Document View
+
+51f08bfc-3e52-472f-a07c-7f3e9b845535-2
+00:01:48.483 --> 00:01:51.119
+for scrolling through the entire document.
+
+32d2dd83-0075-4f72-a4c8-46f45437d40b-0
+00:01:57.960 --> 00:02:02.596
+Once all updates are complete,
+the finalized document can be exported in
+
+32d2dd83-0075-4f72-a4c8-46f45437d40b-1
+00:02:02.596 --> 00:02:06.851
+either CSV or PDF formats,
+providing flexibility for reporting and
+
+32d2dd83-0075-4f72-a4c8-46f45437d40b-2
+00:02:06.851 --> 00:02:07.360
+sharing.
+
+d859947e-7d18-4b23-a43a-1c1e2379acc9-0
+00:02:10.160 --> 00:02:14.320
+For accountability and traceability,
+the application includes an audit thread
+
+d859947e-7d18-4b23-a43a-1c1e2379acc9-1
+00:02:14.320 --> 00:02:16.666
+feature,
+which tracks all modifications and
+
+d859947e-7d18-4b23-a43a-1c1e2379acc9-2
+00:02:16.666 --> 00:02:19.280
+identifies the user responsible for each
+change.
+
+8c4a5ce2-81db-4d1a-acbf-99de48feb604-0
+00:02:22.560 --> 00:02:25.160
+Thanks for watching this demo and have a
+nice day.
