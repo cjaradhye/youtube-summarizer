@@ -1,8 +1,3 @@
-Here’s the GitHub-friendly `README.md` for your **Video Transcript Summarizer** project — complete with formatting, badges, and a structure ideal for showcasing on GitHub:
-
----
-
-```md
 # 🎥 Video Transcript Summarizer
 
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
