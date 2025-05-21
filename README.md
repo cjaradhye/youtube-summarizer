@@ -121,10 +121,3 @@ MIT License — free to use and adapt with attribution
 ---
 
 > Give it a ⭐ if this helped you summarize your content better!
-
-```
-
----
-
-Let me know your GitHub username if you’d like this to include author/maintainer info or want a sample `LICENSE` and `.gitignore` added!
-```
