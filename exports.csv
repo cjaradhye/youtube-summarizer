@@ -1,4 +1,5 @@
-﻿RCA Demo v0.2.en-US.vtt,RCA Q&A Application Demo,"A chat interface tool that turns data into interactive insights, empowering decision making with natural language questions and visual responses."
+File Name,Heading,Content
+RCA Demo v0.2.en-US.vtt,RCA Q&A Application Demo,"A chat interface tool that turns data into interactive insights, empowering decision making with natural language questions and visual responses."
 RCA POT Application Update.vtt,RCA Tool Weekly Update,"Improved consistency and accuracy for foundational questions, with 75% accuracy and goal to continue improvement."
 AI Report Review Updated Sept 20.vtt,AI Report Review Solution,Automated appraisal report processing and validation tool saves time and ensures accuracy with AI-generated Excel reports and validation status.
 NTL P.O.T Demo v0.2.vtt,NTL Tool Demo Overview,"NTL tool streamlines lead generation with AI-powered news analysis, automating search and display of curated leads to brokers, saving time and enhancing productivity."
@@ -13,3 +14,7 @@ AI Report Review Sept 20.vtt,AI-Powered Appraisal Report Review,"The AI solution
 Lease Abstractor v0.1.vtt,Lease Abstraction Tool Demo,"The tool offers document filtering, abstraction, and tracking with features like audit trails and export options for CSV and PDF formats."
 Tenant Health Index Demo.vtt,Tenant Health Index Dashboard,
 RCA POT Demo v0.3.vtt,RCA Q&amp;A Application Demo,"A tool that turns data into interactive insights through a chat interface, empowering decision making with visual and contextual responses."
+DocuX2 Extract.mp3,Contract Review Process,"Contract review involves L1, L2, and L3 checks with revisions and submissions until final approval."
+DocuX4 Reports.mp3,Obligation Application Features,"Customizable dashboard, contract management, data correction, report generation, and advanced search functionality for efficient contract management."
+DocuX3 Obligation.mp3,Post Contract Deployment Steps,"After contract submission, deploy project, then move to on obligation application for client user access."
+UI_KB.mp3,Paperspace Console Demo,"The speaker showcases the Paperspace console, deployment engine, and a chat GPT-like interface, demonstrating its functionality and features."LLM v1 July 21.mp3,Open Source Large Language Model,"Alkalip presents Falcon 40b, an open source model for enterprise support teams to quickly resolve tickets with a chat-like interface and summarized answers."
